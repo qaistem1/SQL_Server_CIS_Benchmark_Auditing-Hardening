@@ -1,4 +1,4 @@
-# SQL Server 2014/2016 CIS Benchmark
+# SQL Server 2014-2017 CIS Benchmark
 A python script to check how compliant is the 2014/2016 Microsoft SQL Server:
 
 -It checks for all "Scored" controls

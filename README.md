@@ -9,4 +9,5 @@ A python script to check how compliant is the 2014/2016 Microsoft SQL Server:
 # Notes regarding the remediation/hardening script:
 
 -Kerberos should be configured in order to use Windows Authentication
+
 -For the controls that require registry modification, path change might be required, also permissions should be given to edit registry

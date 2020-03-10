@@ -3,7 +3,7 @@ Python scripts to check how compliant is the 2014-2017 Microsoft SQL Server:
 
 -The auditing script checks for all "Scored" controls
 
--The remediation scripts remediates all of the "Scored" controls
+-The remediation/hardening script remediates all of the "Scored" controls
 
 
 # Notes regarding the remediation/hardening script:

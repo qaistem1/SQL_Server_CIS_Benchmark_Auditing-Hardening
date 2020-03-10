@@ -5,10 +5,10 @@
 
 import pyodbc
 
-server = '10.211.55.3,1433'
+server = 'xx.xx.xx.xx,1433'
 database = 'master'
-username = 'Qais'
-password = 'qais1'
+username = 'xxxx'
+password = 'xxxx'
 
 
 cnxn = pyodbc.connect('DRIVER={ODBC Driver 17 for SQL Server}'
